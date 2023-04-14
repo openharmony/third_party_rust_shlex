@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "rust-shlex",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "1.1.0",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/comex/rust-shlex",
+    "Description": "A Rust library that provides support for parsing shell-like syntax."
+  }
+]
