@@ -25,4 +25,7 @@ ohos_cargo_crate("lib") {
     cargo_pkg_name = "shlex"
     cargo_pkg_description = "Split a string into shell words, like Python's shlex."
     features = ["std"]
+    module_output_extension = ".rlib"
+    part_name = "rust_shlex"
+    subsystem_name = "thirdparty"
 }
